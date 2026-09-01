@@ -1,4 +1,4 @@
-# Análisis de Algoritmos de Ordenamiento y Estructuras de Datos
+# Análisis de Algoritmos de Ordenamiento y Estructuras de Datos DAVID MONCADA - CAMILO RODRIGUEZ
 
 Este proyecto implementa, audita y compara empíricamente el rendimiento de tres algoritmos fundamentales de ordenamiento e indexación: **QuickSort**, **HeapSort** y **Árbol AVL**. El sistema está diseñado en C++ moderno y evalúa el comportamiento de estas estructuras sometiéndolas a un conjunto de datos masivo de 100,000 palabras aleatorias.
 
